@@ -1,1 +1,1 @@
-# basic_flask_blog
+# Basic Flask blog
